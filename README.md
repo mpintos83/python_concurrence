@@ -19,4 +19,6 @@ Leer y analizar el código y tratar de deducir que hace cada bloque.
 
 
 
-                    <sub>[Daniel Buaon - unahur-progra-concu-1-2021](https://github.com/unahur-progra-concu-1-2021)</sub>
+
+
+<sub>[Daniel Buaon - unahur-progra-concu-1-2021](https://github.com/unahur-progra-concu-1-2021)</sub>
