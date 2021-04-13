@@ -5,7 +5,7 @@
 ```
 textoAnimado.py
 ```
-El siguente programa, utiliza el modulo de interfaz grafica de usuario (GUI) tkinter para generar animaciones de texto.
+El siguente programa, utiliza el [Interfaces gráficas de usuario Tkinter (Tk)](https://docs.python.org/es/3/library/tk.html) para generar animaciones de texto.
 Las animaciones consisten en un caracter que se repite a lo largo de una línea, a una determinada velocidad.
 
 Leer y analizar el código y tratar de deducir que hace cada bloque.
