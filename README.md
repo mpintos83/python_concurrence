@@ -1,5 +1,14 @@
 # Concurrencia en Python
 
+## Video Clase 2 - Codigo Fuente
+```
+procesosEjemplo.py
+procesosEjemplo2.py
+threadsEjemplo.py
+globalVarsEjemplo.py
+globalContador.py
+```
+
 ## Ejercicio:
 
 ```
@@ -15,9 +24,9 @@ Leer y analizar el código y tratar de deducir que hace cada bloque.
 1. Como podría modidificar el caracter a imprimir en las lineas animadas?
 2. Como podría modificar la velocidad a la que se escriben los caracteres?
 3. Las animaciones de esta versión se ejecutan en forma Secuencial: explique por que.
-4. Modificar el código de modo que las animaciones se ejecuten en forma concurrente.
-
-
+4. Modificar el código de modo que las animaciones se ejecuten en forma concurrente utilizando Threads.
+5. Como modificaría el código para utiliar Procesos en lugar de Threads. Que diferencias habría al ejecutarlo?
+6. Bonus: Implementar el punto 5 en codigo que funcione.
 
 
 
