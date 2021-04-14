@@ -26,7 +26,7 @@ Leer y analizar el código y tratar de deducir que hace cada bloque.
 3. Las animaciones de esta versión se ejecutan en forma Secuencial: explique por que.
 4. Modificar el código de modo que las animaciones se ejecuten en forma concurrente utilizando Threads.
 5. Como modificaría el código para utiliar Procesos en lugar de Threads. Que diferencias habría al ejecutarlo?
-6. Bonus: Implementar el punto 5 en codigo que funcione.
+   Bonus: Implementar el punto 5 en codigo que funcione.
 
 
 
