@@ -19,7 +19,7 @@ Las animaciones consisten en un caracter que se repite a lo largo de una línea,
 
 Leer y analizar el código y tratar de deducir que hace cada bloque.
 
-## Preguntas:
+## Preguntas (responder en el campus):
 
 1. Como podría modidificar el caracter a imprimir en las lineas animadas?
 2. Como podría modificar la velocidad a la que se escriben los caracteres?
